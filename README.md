@@ -2,6 +2,9 @@
 
 An intelligent assistant that converts natural language queries into executable GIS workflows using AI and open-source geospatial tools.
 
+![image](https://github.com/user-attachments/assets/a627f1de-8bd8-4641-818f-e6783bb5beb9)
+
+
 ## 🚀 Features
 
 - **Natural Language Processing**: Convert plain English queries to GIS operations
