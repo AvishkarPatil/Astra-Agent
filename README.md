@@ -2,7 +2,7 @@
 
 An intelligent assistant that converts natural language queries into executable GIS workflows using AI and open-source geospatial tools.
 
-![image](https://github.com/user-attachments/assets/a627f1de-8bd8-4641-818f-e6783bb5beb9)
+![image](https://github.com/user-attachments/assets/3efbc82a-7871-4760-b397-a4dd9aedb6e2)
 
 
 ## 🚀 Features
